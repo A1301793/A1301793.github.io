@@ -375,13 +375,13 @@
 			}
 		},
 		{
-			"name": "Charity Bundle",
+			"name": "Humble Bundle",
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Clue Food Treasure ",
-			"collector_number": "110",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/110_Charity Bundle.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/115_Humble Bundle.png"
 			}
 		},
 		{
@@ -399,9 +399,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Wall ",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/114_Gleaming Barrier.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/113_Gleaming Barrier.png"
 			}
 		},
 		{
@@ -475,23 +475,13 @@
 			}
 		},
 		{
-			"name": "Food",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Artifact — Food ",
-			"collector_number": "20",
-			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/20_Food.png"
-			}
-		},
-		{
 			"name": "Treasure",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "21",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/21_Treasure.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/20_Treasure.png"
 			}
 		},
 		{
@@ -499,9 +489,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem — Rheila ",
-			"collector_number": "23",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/23_Rheila, Haunted Healer.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/22_Rheila, Haunted Healer.png"
 			}
 		},
 		{
@@ -946,9 +936,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/112_Ensouled Sword.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/111_Ensouled Sword.png"
 			}
 		},
 		{
@@ -1016,9 +1006,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem — Bahum ",
-			"collector_number": "22",
+			"collector_number": "21",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/22_Bahum, Merciful End.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/21_Bahum, Merciful End.png"
 			}
 		},
 		{
@@ -1423,9 +1413,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/115_Gloryblaze Armaments.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/114_Gloryblaze Armaments.png"
 			}
 		},
 		{
@@ -1433,9 +1423,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/111_Deadly Duo.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/110_Deadly Duo.png"
 			}
 		},
 		{
@@ -1443,9 +1433,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/113_Fragment of Heaven.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/112_Fragment of Heaven.png"
 			}
 		},
 		{
@@ -1556,16 +1546,6 @@
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://A1301793.github.io/sets/KLC2-files/img/108_Remake Realities.png"
-			}
-		},
-		{
-			"name": "Rebuild the Realms",
-			"rarity": "special",
-			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Sorcery",
-			"collector_number": "131",
-			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/131_Rebuild the Realms.png"
 			}
 		}
 	]
