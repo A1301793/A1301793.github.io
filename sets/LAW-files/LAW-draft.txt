@@ -1,0 +1,1723 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Forager's Lore",
+			"rarity": "rare",
+			"mana_cost": "{W}",
+			"type": "Enchantment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/5_Forager's Lore.png"
+			}
+		},
+		{
+			"name": "Godwarden",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/27_Godwarden.png"
+			}
+		},
+		{
+			"name": "Trail Off",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Instant",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/40_Trail Off.png"
+			}
+		},
+		{
+			"name": "Ravenous Forsaken",
+			"rarity": "rare",
+			"mana_cost": "{R}",
+			"type": "Creature — Zombie ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/76_Ravenous Forsaken.png"
+			}
+		},
+		{
+			"name": "Determined to Prevail",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/3_Determined to Prevail.png"
+			}
+		},
+		{
+			"name": "Outskirts Provider",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/12_Outskirts Provider.png"
+			}
+		},
+		{
+			"name": "Hollow Wanderer",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warlock Horror ",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/28_Hollow Wanderer.png"
+			}
+		},
+		{
+			"name": "Kielie, Risti Strike Leader",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Legendary Creature — Human Soldier ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/55_Kielie, Risti Strike Leader.png"
+			}
+		},
+		{
+			"name": "Reason Rots, Rage Remains",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/77_Reason Rots, Rage Remains.png"
+			}
+		},
+		{
+			"name": "Trash Trawler",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/105_Trash Trawler.png"
+			}
+		},
+		{
+			"name": "Bright-Eyed Adventurer",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/1_Bright-Eyed Adventurer.png"
+			}
+		},
+		{
+			"name": "Imperious Nixie",
+			"rarity": "common",
+			"mana_cost": "{U}",
+			"type": "Creature — Faerie ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/31_Imperious Nixie.png"
+			}
+		},
+		{
+			"name": "Courier's Misfortune",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/65_Courier's Misfortune.png"
+			}
+		},
+		{
+			"name": "Ivenge, False God",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Planeswalker — Ivenge ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/9_Ivenge, False God.png"
+			}
+		},
+		{
+			"name": "Sudden Fatigue",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/36_Sudden Fatigue.png"
+			}
+		},
+		{
+			"name": "Lone Hunter",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/10_Lone Hunter.png"
+			}
+		},
+		{
+			"name": "Hoverbike Courier",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/30_Hoverbike Courier.png"
+			}
+		},
+		{
+			"name": "Dogged Pioneer",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/85_Dogged Pioneer.png"
+			}
+		},
+		{
+			"name": "Discover Survivors",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/66_Discover Survivors.png"
+			}
+		},
+		{
+			"name": "Triplicate Terror",
+			"rarity": "common",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Hound Horror ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/41_Triplicate Terror.png"
+			}
+		},
+		{
+			"name": "Neophyte of the Old Gods",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/59_Neophyte of the Old Gods.png"
+			}
+		},
+		{
+			"name": "Scavenger Hunt",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/82_Scavenger Hunt.png"
+			}
+		},
+		{
+			"name": "Risti Watchkeeper",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/101_Risti Watchkeeper.png"
+			}
+		},
+		{
+			"name": "Moved by Instinct",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/97_Moved by Instinct.png"
+			}
+		},
+		{
+			"name": "Hone Strategy",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{U}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/29_Hone Strategy.png"
+			}
+		},
+		{
+			"name": "False God's Downfall",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/52_False God's Downfall.png"
+			}
+		},
+		{
+			"name": "Keen Reflexes",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/72_Keen Reflexes.png"
+			}
+		},
+		{
+			"name": "Neo-Alchemist",
+			"rarity": "common",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Creature — Human Druid ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/98_Neo-Alchemist.png"
+			}
+		},
+		{
+			"name": "Worn Peacekeeper",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/21_Worn Peacekeeper.png"
+			}
+		},
+		{
+			"name": "The Afterlife Takes Its Due",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/44_The Afterlife Takes Its Due.png"
+			}
+		},
+		{
+			"name": "Broken Deathbringer",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/47_Broken Deathbringer.png"
+			}
+		},
+		{
+			"name": "Ember of Ancient Infernos",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Faerie ",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/67_Ember of Ancient Infernos.png"
+			}
+		},
+		{
+			"name": "Resign to Madness",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/108_Resign to Madness.png"
+			}
+		},
+		{
+			"name": "Wilderness Forager",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/20_Wilderness Forager.png"
+			}
+		},
+		{
+			"name": "The Mist Thirsts for Silence",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/33_The Mist Thirsts for Silence.png"
+			}
+		},
+		{
+			"name": "Risti Suppression",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/62_Risti Suppression.png"
+			}
+		},
+		{
+			"name": "Risti Strategist",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/100_Risti Strategist.png"
+			}
+		},
+		{
+			"name": "The Ancestors Pass Judgment",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Instant",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/116_The Ancestors Pass Judgment.png"
+			}
+		},
+		{
+			"name": "Awaken to the New World",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/23_Awaken to the New World.png"
+			}
+		},
+		{
+			"name": "Dead-Set Duo",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Berserker ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/48_Dead-Set Duo.png"
+			}
+		},
+		{
+			"name": "Herald of the Departed",
+			"rarity": "common",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/7_Herald of the Departed.png"
+			}
+		},
+		{
+			"name": "Nixie's Edict",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/11_Nixie's Edict.png"
+			}
+		},
+		{
+			"name": "Swarm of the Dispossessed",
+			"rarity": "rare",
+			"mana_cost": "{U}",
+			"type": "Creature — Spirit ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/38_Swarm of the Dispossessed.png"
+			}
+		},
+		{
+			"name": "Expand the Perimeter",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/69_Expand the Perimeter.png"
+			}
+		},
+		{
+			"name": "Life Remembers Its Roots",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/95_Life Remembers Its Roots.png"
+			}
+		},
+		{
+			"name": "Vulture Corps",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/18_Vulture Corps.png"
+			}
+		},
+		{
+			"name": "Children of the Void",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Creature — Horror ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/25_Children of the Void.png"
+			}
+		},
+		{
+			"name": "Battery Bearer",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/45_Battery Bearer.png"
+			}
+		},
+		{
+			"name": "Imperious Ram",
+			"rarity": "common",
+			"mana_cost": "{5}{G}",
+			"type": "Creature — Ox ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/92_Imperious Ram.png"
+			}
+		},
+		{
+			"name": "Cantrip Collector",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/24_Cantrip Collector.png"
+			}
+		},
+		{
+			"name": "Rebuild History",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/35_Rebuild History.png"
+			}
+		},
+		{
+			"name": "The Bliss of Ignorance Dies",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Sorcery",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/46_The Bliss of Ignorance Dies.png"
+			}
+		},
+		{
+			"name": "Rabid Thrill",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/75_Rabid Thrill.png"
+			}
+		},
+		{
+			"name": "The Songs of Gods Echo",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/102_The Songs of Gods Echo.png"
+			}
+		},
+		{
+			"name": "Tahti, Forged by the World",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Legendary Creature — Human Scout Archer ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/104_Tahti, Forged by the World.png"
+			}
+		},
+		{
+			"name": "The Ark Project",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Artifact — Vehicle ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/22_The Ark Project.png"
+			}
+		},
+		{
+			"name": "Godseeker Vanguard",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/89_Godseeker Vanguard.png"
+			}
+		},
+		{
+			"name": "Risti Operative",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/14_Risti Operative.png"
+			}
+		},
+		{
+			"name": "Cobbled Currency",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/128_Cobbled Currency.png"
+			}
+		},
+		{
+			"name": "Mennin Pack",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/57_Mennin Pack.png"
+			}
+		},
+		{
+			"name": "The Hidden Truths Resurface",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/70_The Hidden Truths Resurface.png"
+			}
+		},
+		{
+			"name": "Farmland Settlers",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/87_Farmland Settlers.png"
+			}
+		},
+		{
+			"name": "Risti Inquisitor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/13_Risti Inquisitor.png"
+			}
+		},
+		{
+			"name": "Tip of the Tongue",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/39_Tip of the Tongue.png"
+			}
+		},
+		{
+			"name": "Acid Sewage",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/43_Acid Sewage.png"
+			}
+		},
+		{
+			"name": "Risti Assault Squadron",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/80_Risti Assault Squadron.png"
+			}
+		},
+		{
+			"name": "True Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Instant",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/17_True Shot.png"
+			}
+		},
+		{
+			"name": "Make or Break",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/56_Make or Break.png"
+			}
+		},
+		{
+			"name": "Deepmire Abomination",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/50_Deepmire Abomination.png"
+			}
+		},
+		{
+			"name": "Singer of Calamities",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/84_Singer of Calamities.png"
+			}
+		},
+		{
+			"name": "Hunger of Old Lovi",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/91_Hunger of Old Lovi.png"
+			}
+		},
+		{
+			"name": "Warped Recluse",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Horror ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/19_Warped Recluse.png"
+			}
+		},
+		{
+			"name": "Supply Run",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/37_Supply Run.png"
+			}
+		},
+		{
+			"name": "Deadwood Terror",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/49_Deadwood Terror.png"
+			}
+		},
+		{
+			"name": "Logger Recluse",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/96_Logger Recluse.png"
+			}
+		},
+		{
+			"name": "Leery Sortie",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Enchantment",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/73_Leery Sortie.png"
+			}
+		},
+		{
+			"name": "Ineffable Patronage",
+			"rarity": "common",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/8_Ineffable Patronage.png"
+			}
+		},
+		{
+			"name": "Hand of the Murder",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Horror ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/54_Hand of the Murder.png"
+			}
+		},
+		{
+			"name": "Excavator of the Beyond",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/68_Excavator of the Beyond.png"
+			}
+		},
+		{
+			"name": "Neo-Alchemist's Mastery",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/99_Neo-Alchemist's Mastery.png"
+			}
+		},
+		{
+			"name": "Cower in Denial",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/2_Cower in Denial.png"
+			}
+		},
+		{
+			"name": "Wind-Blessed Guardian",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/42_Wind-Blessed Guardian.png"
+			}
+		},
+		{
+			"name": "Procession of the Conscripted",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/61_Procession of the Conscripted.png"
+			}
+		},
+		{
+			"name": "Scorched-Earth Defence",
+			"rarity": "rare",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/83_Scorched-Earth Defence.png"
+			}
+		},
+		{
+			"name": "Grim Armory",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/6_Grim Armory.png"
+			}
+		},
+		{
+			"name": "Reality Reversal",
+			"rarity": "rare",
+			"mana_cost": "{U}{U}",
+			"type": "Instant",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/34_Reality Reversal.png"
+			}
+		},
+		{
+			"name": "Savage Stalker",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/81_Savage Stalker.png"
+			}
+		},
+		{
+			"name": "Sovereign of Old Lovi",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Creature — Bear ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/103_Sovereign of Old Lovi.png"
+			}
+		},
+		{
+			"name": "Scion of the Pack",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/16_Scion of the Pack.png"
+			}
+		},
+		{
+			"name": "Open the Cryo-Chambers",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{B}",
+			"type": "Instant",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/60_Open the Cryo-Chambers.png"
+			}
+		},
+		{
+			"name": "Monstrous Amalgam",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/58_Monstrous Amalgam.png"
+			}
+		},
+		{
+			"name": "Relic Hoarder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/78_Relic Hoarder.png"
+			}
+		},
+		{
+			"name": "Friend of the Woods",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid Scout ",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/88_Friend of the Woods.png"
+			}
+		},
+		{
+			"name": "Infiltrator of the Anomalous",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/71_Infiltrator of the Anomalous.png"
+			}
+		},
+		{
+			"name": "Cut Short",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/26_Cut Short.png"
+			}
+		},
+		{
+			"name": "Left on the Wayside",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/74_Left on the Wayside.png"
+			}
+		},
+		{
+			"name": "Surveyor's Rifle",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/139_Surveyor's Rifle.png"
+			}
+		},
+		{
+			"name": "Warped Landscape",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/154_Warped Landscape.png"
+			}
+		},
+		{
+			"name": "Excavation Engine",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/130_Excavation Engine.png"
+			}
+		},
+		{
+			"name": "Head of Ulko",
+			"rarity": "mythic",
+			"mana_cost": "{8}",
+			"type": "Legendary Artifact",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/132_Head of Ulko.png"
+			}
+		},
+		{
+			"name": "Scavengermobile",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/136_Scavengermobile.png"
+			}
+		},
+		{
+			"name": "Haunted Fairground",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/146_Haunted Fairground.png"
+			}
+		},
+		{
+			"name": "Forsaken Getaway",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/144_Forsaken Getaway.png"
+			}
+		},
+		{
+			"name": "Drained Shore",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/141_Drained Shore.png"
+			}
+		},
+		{
+			"name": "Imposing Barricade",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Wall ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/32_Imposing Barricade.png"
+			}
+		},
+		{
+			"name": "Windmill Project",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/155_Windmill Project.png"
+			}
+		},
+		{
+			"name": "Cobbled Transport",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/129_Cobbled Transport.png"
+			}
+		},
+		{
+			"name": "Drought-Plagued Slum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/142_Drought-Plagued Slum.png"
+			}
+		},
+		{
+			"name": "Suspect Concoctions",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/140_Suspect Concoctions.png"
+			}
+		},
+		{
+			"name": "Ancestor's Skull",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/126_Ancestor's Skull.png"
+			}
+		},
+		{
+			"name": "Seductive Seashell",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/137_Seductive Seashell.png"
+			}
+		},
+		{
+			"name": "Experimental Battle Armor",
+			"rarity": "uncommon",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/131_Experimental Battle Armor.png"
+			}
+		},
+		{
+			"name": "Armament Scavenger",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior ",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/64_Armament Scavenger.png"
+			}
+		},
+		{
+			"name": "Medical Mask",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/133_Medical Mask.png"
+			}
+		},
+		{
+			"name": "Traversing the Hellwastes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Enchantment",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/111_Traversing the Hellwastes.png"
+			}
+		},
+		{
+			"name": "Eerie Armanent",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/86_Eerie Armanent.png"
+			}
+		},
+		{
+			"name": "Reunite with Nature",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/113_Reunite with Nature.png"
+			}
+		},
+		{
+			"name": "Bloodrune Patron",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/120_Bloodrune Patron.png"
+			}
+		},
+		{
+			"name": "Hermit of the Taiga",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/115_Hermit of the Taiga.png"
+			}
+		},
+		{
+			"name": "Crossroads Harrier",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Faerie ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/118_Crossroads Harrier.png"
+			}
+		},
+		{
+			"name": "Drove of the Lost",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}{B}",
+			"type": "Creature — Spirit ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/117_Drove of the Lost.png"
+			}
+		},
+		{
+			"name": "Approach of Old Lovi",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Enchantment",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/122_Approach of Old Lovi.png"
+			}
+		},
+		{
+			"name": "Mennin Reclamation",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{G}",
+			"type": "Sorcery",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/112_Mennin Reclamation.png"
+			}
+		},
+		{
+			"name": "Bravery's Reward",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/106_Bravery's Reward.png"
+			}
+		},
+		{
+			"name": "Makias, Marked Marauder",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Mercenary ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/110_Makias, Marked Marauder.png"
+			}
+		},
+		{
+			"name": "Watchers of the Veil",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Creature — Human Spirit Cleric ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/109_Watchers of the Veil.png"
+			}
+		},
+		{
+			"name": "Foreboding Calm",
+			"rarity": "rare",
+			"mana_cost": "{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/124_Foreboding Calm.png"
+			}
+		},
+		{
+			"name": "Fate Tracer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/114_Fate Tracer.png"
+			}
+		},
+		{
+			"name": "The Cannibals of Kallio Hill",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{G}",
+			"type": "Legendary Creature — Human ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/121_The Cannibals of Kallio Hill.png"
+			}
+		},
+		{
+			"name": "The Flesh Becomes Soil",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/4_The Flesh Becomes Soil.png"
+			}
+		},
+		{
+			"name": "Favoured Firebrand",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Warlock ",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/119_Favoured Firebrand.png"
+			}
+		},
+		{
+			"name": "Risti Salvager",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{W}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/123_Risti Salvager.png"
+			}
+		},
+		{
+			"name": "Privilege's Sway",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/125_Privilege's Sway.png"
+			}
+		},
+		{
+			"name": "Memorial Ground",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/148_Memorial Ground.png"
+			}
+		},
+		{
+			"name": "Hellwaste Settlement",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/147_Hellwaste Settlement.png"
+			}
+		},
+		{
+			"name": "Risti Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/150_Risti Citadel.png"
+			}
+		},
+		{
+			"name": "Secluded Farmstead",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/152_Secluded Farmstead.png"
+			}
+		},
+		{
+			"name": "Scavenger Holdout",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/151_Scavenger Holdout.png"
+			}
+		},
+		{
+			"name": "Pulsating Mass",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/149_Pulsating Mass.png"
+			}
+		},
+		{
+			"name": "Sepulchral Seas",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/153_Sepulchral Seas.png"
+			}
+		},
+		{
+			"name": "Grave of an Old Lord",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/145_Grave of an Old Lord.png"
+			}
+		},
+		{
+			"name": "Fluctuating Locale",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/143_Fluctuating Locale.png"
+			}
+		},
+		{
+			"name": "Mennin Jar",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/134_Mennin Jar.png"
+			}
+		},
+		{
+			"name": "Reclamation Project",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/107_Reclamation Project.png"
+			}
+		},
+		{
+			"name": "Renegade Servitor",
+			"rarity": "common",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/135_Renegade Servitor.png"
+			}
+		},
+		{
+			"name": "Antiquated Firearm",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/127_Antiquated Firearm.png"
+			}
+		},
+		{
+			"name": "Servitor Vanguard",
+			"rarity": "uncommon",
+			"mana_cost": "{6}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/138_Servitor Vanguard.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/156_Plains.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/157_Island.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/158_Swamp.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/159_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/160_Forest.png"
+			}
+		},
+		{
+			"name": "Reyhsia, Truth Chaser",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Legendary Planeswalker — Reyhsia ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/79_Reyhsia, Truth Chaser.png"
+			}
+		},
+		{
+			"name": "Kaur, End of Lies",
+			"rarity": "mythic",
+			"mana_cost": "{6}{G}{G}",
+			"type": "Legendary Planeswalker — Kaur ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/93_Kaur, End of Lies.png"
+			}
+		},
+		{
+			"name": "Heir to the Old Bonds",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Shaman ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/90_Heir to the Old Bonds.png"
+			}
+		},
+		{
+			"name": "Kaur's Gift",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Plant ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/94_Kaur's Gift.png"
+			}
+		},
+		{
+			"name": "Underhanded Employ",
+			"rarity": "common",
+			"mana_cost": "{B}{B}",
+			"type": "Instant",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/63_Underhanded Employ.png"
+			}
+		},
+		{
+			"name": "Desperate Forsaken",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zombie ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/51_Desperate Forsaken.png"
+			}
+		},
+		{
+			"name": "Fertile Flesh",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Enchantment",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/53_Fertile Flesh.png"
+			}
+		},
+		{
+			"name": "Runeclad Seeker",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Human Scout ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/15_Runeclad Seeker.png"
+			}
+		},
+		{
+			"name": "Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Spirit ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/2_Spirit.png"
+			}
+		},
+		{
+			"name": "Plains Token",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Token Land — Plains ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/12_Plains Token.png"
+			}
+		},
+		{
+			"name": "Zombie Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie Horror ",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/7_Zombie Horror.png"
+			}
+		},
+		{
+			"name": "Hound",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Hound ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/8_Hound.png"
+			}
+		},
+		{
+			"name": "Soldier",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Soldier ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/1_Soldier.png"
+			}
+		},
+		{
+			"name": "Deadwood Terror Token",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Token Creature — Zombie ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/4_Deadwood Terror Token.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/3_Bird.png"
+			}
+		},
+		{
+			"name": "Scout",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Scout ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/9_Scout.png"
+			}
+		},
+		{
+			"name": "Zombie",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Zombie ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/6_Zombie.png"
+			}
+		},
+		{
+			"name": "Goblin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Nightmare ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/5_Goblin.png"
+			}
+		},
+		{
+			"name": "Elemental Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental Horror ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/10_Elemental Horror.png"
+			}
+		},
+		{
+			"name": "Plant Horror",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Plant Horror ",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/LAW-files/img/11_Plant Horror.png"
+			}
+		}
+	]
