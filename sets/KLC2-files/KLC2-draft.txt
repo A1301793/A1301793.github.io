@@ -5,9 +5,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Clue ",
-			"collector_number": "19",
+			"collector_number": "24",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/19_Clue.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/24_Clue.png"
 			}
 		},
 		{
@@ -15,9 +15,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "45",
+			"collector_number": "55",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/45_Monstrous Rebirth.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/55_Monstrous Rebirth.png"
 			}
 		},
 		{
@@ -55,9 +55,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Human Advisor ",
-			"collector_number": "47",
+			"collector_number": "57",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/47_Moranc's Recruiter.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/57_Moranc's Recruiter.png"
 			}
 		},
 		{
@@ -65,9 +65,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Sorcery",
-			"collector_number": "38",
+			"collector_number": "41",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/38_Delve into Undeath.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/41_Delve into Undeath.png"
 			}
 		},
 		{
@@ -75,16 +75,16 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{B}{G}",
 			"type": "Sorcery",
-			"collector_number": "104",
+			"collector_number": "138",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://A1301793.github.io/sets/KLC2-files/img/104_A Deadly Harvest_back.png"
+					"en": "https://A1301793.github.io/sets/KLC2-files/img/138_A Deadly Harvest_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/104_A Deadly Harvest_front.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/138_A Deadly Harvest_front.png"
 			}
 		},
 		{
@@ -92,9 +92,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "43",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/43_Leave Doubt Behind.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/52_Leave Doubt Behind.png"
 			}
 		},
 		{
@@ -102,9 +102,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "39",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/39_Disillusion.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/42_Disillusion.png"
 			}
 		},
 		{
@@ -112,9 +112,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Human Mutant ",
-			"collector_number": "44",
+			"collector_number": "53",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/44_Lifecraft Subjects.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/53_Lifecraft Subjects.png"
 			}
 		},
 		{
@@ -122,9 +122,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Horror ",
-			"collector_number": "40",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/40_Festering Shadow.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/44_Festering Shadow.png"
 			}
 		},
 		{
@@ -132,9 +132,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "41",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/41_Future Undone.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/45_Future Undone.png"
 			}
 		},
 		{
@@ -142,9 +142,9 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}",
 			"type": "Legendary Creature — Human Wizard ",
-			"collector_number": "46",
+			"collector_number": "56",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/46_Moranc, Scholar of Flesh.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/56_Moranc, Scholar of Flesh.png"
 			}
 		},
 		{
@@ -152,9 +152,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Vampire Noble ",
-			"collector_number": "42",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/42_Highblood Duchess.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/47_Highblood Duchess.png"
 			}
 		},
 		{
@@ -162,9 +162,9 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Citizen ",
-			"collector_number": "51",
+			"collector_number": "67",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/51_Town Gossip.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/67_Town Gossip.png"
 			}
 		},
 		{
@@ -172,9 +172,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "50",
+			"collector_number": "64",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/50_Show of Superiority.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/64_Show of Superiority.png"
 			}
 		},
 		{
@@ -182,9 +182,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Human Cleric ",
-			"collector_number": "48",
+			"collector_number": "60",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/48_Preacher of Ego.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/60_Preacher of Ego.png"
 			}
 		},
 		{
@@ -192,9 +192,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Dog Horror ",
-			"collector_number": "80",
+			"collector_number": "114",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/80_Forsaken Companion.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/114_Forsaken Companion.png"
 			}
 		},
 		{
@@ -202,9 +202,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "76",
+			"collector_number": "110",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/76_Destructive Critique.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/110_Destructive Critique.png"
 			}
 		},
 		{
@@ -212,9 +212,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "77",
+			"collector_number": "111",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/77_Envious Aspirant.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/111_Envious Aspirant.png"
 			}
 		},
 		{
@@ -222,9 +222,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Instant",
-			"collector_number": "75",
+			"collector_number": "109",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/75_Defy Despair.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/109_Defy Despair.png"
 			}
 		},
 		{
@@ -232,9 +232,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Legendary Creature — Elf Rogue ",
-			"collector_number": "81",
+			"collector_number": "115",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/81_Freneaux, Serpent in the Shade.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/115_Freneaux, Serpent in the Shade.png"
 			}
 		},
 		{
@@ -242,9 +242,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Creature — Giant  ",
-			"collector_number": "85",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/85_Industrious Titan.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/119_Industrious Titan.png"
 			}
 		},
 		{
@@ -252,9 +252,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid ",
-			"collector_number": "84",
+			"collector_number": "118",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/84_Hopeful Exile.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/118_Hopeful Exile.png"
 			}
 		},
 		{
@@ -262,9 +262,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "87",
+			"collector_number": "121",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/87_Journey for Truth.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/121_Journey for Truth.png"
 			}
 		},
 		{
@@ -272,16 +272,16 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}{G}{G}",
 			"type": "Instant",
-			"collector_number": "88",
+			"collector_number": "122",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://A1301793.github.io/sets/KLC2-files/img/88_A Kindness Abused_back.png"
+					"en": "https://A1301793.github.io/sets/KLC2-files/img/122_A Kindness Abused_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/88_A Kindness Abused_front.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/122_A Kindness Abused_front.png"
 			}
 		},
 		{
@@ -289,9 +289,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elemental Antelope ",
-			"collector_number": "89",
+			"collector_number": "123",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/89_Majestic Wyldhorn.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/123_Majestic Wyldhorn.png"
 			}
 		},
 		{
@@ -299,9 +299,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "93",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/93_Pruned to Please.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/127_Pruned to Please.png"
 			}
 		},
 		{
@@ -309,9 +309,9 @@
 			"rarity": "common",
 			"mana_cost": "{X}{G}",
 			"type": "Creature — Goat Hydra ",
-			"collector_number": "91",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/91_Modified Hydra.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/125_Modified Hydra.png"
 			}
 		},
 		{
@@ -319,9 +319,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Mutant ",
-			"collector_number": "96",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/96_Saljan's Emissary.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/130_Saljan's Emissary.png"
 			}
 		},
 		{
@@ -329,9 +329,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Human Druid ",
-			"collector_number": "98",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/98_Urban Cultivator.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/132_Urban Cultivator.png"
 			}
 		},
 		{
@@ -339,9 +339,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad ",
-			"collector_number": "74",
+			"collector_number": "108",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/74_Dajaman's Fruitbearer.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/108_Dajaman's Fruitbearer.png"
 			}
 		},
 		{
@@ -349,9 +349,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elf Warrior ",
-			"collector_number": "101",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/101_Wildheart Defectors.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/135_Wildheart Defectors.png"
 			}
 		},
 		{
@@ -359,9 +359,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "103",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/103_Airs of Nobility.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/137_Airs of Nobility.png"
 			}
 		},
 		{
@@ -369,9 +369,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Ooze Mutant Horror ",
-			"collector_number": "49",
+			"collector_number": "62",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/49_Saljan, the Immortal Mistake.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/62_Saljan, the Immortal Mistake.png"
 			}
 		},
 		{
@@ -379,9 +379,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Clue Food Treasure ",
-			"collector_number": "115",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/115_Humble Bundle.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/152_Humble Bundle.png"
 			}
 		},
 		{
@@ -389,9 +389,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "122",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/122_Ambitious Foundry.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/162_Ambitious Foundry.png"
 			}
 		},
 		{
@@ -399,9 +399,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Wall ",
-			"collector_number": "113",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/113_Gleaming Barrier.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/150_Gleaming Barrier.png"
 			}
 		},
 		{
@@ -409,9 +409,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Clue ",
-			"collector_number": "117",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/117_Record of Regrets.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/156_Record of Regrets.png"
 			}
 		},
 		{
@@ -419,9 +419,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "124",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/124_Dwindling Wilds.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/165_Dwindling Wilds.png"
 			}
 		},
 		{
@@ -429,9 +429,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "127",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/127_Unmarked Graves.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/169_Unmarked Graves.png"
 			}
 		},
 		{
@@ -439,9 +439,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest ",
-			"collector_number": "130",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/130_Forest.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/173_Forest.png"
 			}
 		},
 		{
@@ -449,9 +449,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Mutant ",
-			"collector_number": "15",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/15_Mutant.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/18_Mutant.png"
 			}
 		},
 		{
@@ -459,9 +459,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zombie ",
-			"collector_number": "16",
+			"collector_number": "20",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/16_Zombie.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/20_Zombie.png"
 			}
 		},
 		{
@@ -469,9 +469,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Wall ",
-			"collector_number": "18",
+			"collector_number": "23",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/18_Wall.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/23_Wall.png"
 			}
 		},
 		{
@@ -479,9 +479,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure ",
-			"collector_number": "20",
+			"collector_number": "25",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/20_Treasure.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/25_Treasure.png"
 			}
 		},
 		{
@@ -489,9 +489,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem — Rheila ",
-			"collector_number": "22",
+			"collector_number": "27",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/22_Rheila, Haunted Healer.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/27_Rheila, Haunted Healer.png"
 			}
 		},
 		{
@@ -539,9 +539,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "11",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/11_Vasille.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/13_Vasille.png"
 			}
 		},
 		{
@@ -616,9 +616,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Noble ",
-			"collector_number": "79",
+			"collector_number": "113",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/79_Fickle Sponsor.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/113_Fickle Sponsor.png"
 			}
 		},
 		{
@@ -726,9 +726,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "69",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/69_Arbiter of Honor.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/103_Arbiter of Honor.png"
 			}
 		},
 		{
@@ -736,9 +736,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "70",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/70_Blessing of the Deep Woods.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/104_Blessing of the Deep Woods.png"
 			}
 		},
 		{
@@ -746,9 +746,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/71_Blow off Steam.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/105_Blow off Steam.png"
 			}
 		},
 		{
@@ -756,9 +756,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elemental ",
-			"collector_number": "72",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/72_Champion of the Hills.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/106_Champion of the Hills.png"
 			}
 		},
 		{
@@ -766,9 +766,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "92",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/92_Nature's Wargear.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/126_Nature's Wargear.png"
 			}
 		},
 		{
@@ -776,9 +776,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "99",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/99_Vanguard's Bow.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/133_Vanguard's Bow.png"
 			}
 		},
 		{
@@ -786,9 +786,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "78",
+			"collector_number": "112",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/78_Far Meanders.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/112_Far Meanders.png"
 			}
 		},
 		{
@@ -796,9 +796,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Fungus Knight ",
-			"collector_number": "82",
+			"collector_number": "116",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/82_Fungal Chevalier.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/116_Fungal Chevalier.png"
 			}
 		},
 		{
@@ -806,9 +806,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "83",
+			"collector_number": "117",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/83_Geomantic Prowess.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/117_Geomantic Prowess.png"
 			}
 		},
 		{
@@ -816,9 +816,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Human Peasant ",
-			"collector_number": "86",
+			"collector_number": "120",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/86_Jaded Farmers.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/120_Jaded Farmers.png"
 			}
 		},
 		{
@@ -826,9 +826,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Elemental ",
-			"collector_number": "90",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/90_Massive Mossborn.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/124_Massive Mossborn.png"
 			}
 		},
 		{
@@ -836,9 +836,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "94",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/94_Realmborn Coalescence.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/128_Realmborn Coalescence.png"
 			}
 		},
 		{
@@ -856,9 +856,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{G}{G}",
 			"type": "Creature — Treefolk Giant ",
-			"collector_number": "95",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/95_Roaming Gargant.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/129_Roaming Gargant.png"
 			}
 		},
 		{
@@ -866,9 +866,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "97",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/97_Sword of the Meek.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/131_Sword of the Meek.png"
 			}
 		},
 		{
@@ -876,9 +876,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Treefolk Rogue ",
-			"collector_number": "100",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/100_Verdure Stalker.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/134_Verdure Stalker.png"
 			}
 		},
 		{
@@ -886,9 +886,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "102",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/102_Will of the Wisps.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/136_Will of the Wisps.png"
 			}
 		},
 		{
@@ -896,9 +896,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Human Noble Warrior ",
-			"collector_number": "106",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/106_Hollmont, the Gaol-Queen.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/140_Hollmont, the Gaol-Queen.png"
 			}
 		},
 		{
@@ -906,9 +906,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Human Knight ",
-			"collector_number": "107",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/107_Mirrorplate Vanguard.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/141_Mirrorplate Vanguard.png"
 			}
 		},
 		{
@@ -916,9 +916,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Scarecrow ",
-			"collector_number": "116",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/116_Realmborn Host.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/155_Realmborn Host.png"
 			}
 		},
 		{
@@ -926,9 +926,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "119",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/119_Trusty Shield.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/159_Trusty Shield.png"
 			}
 		},
 		{
@@ -936,9 +936,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "111",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/111_Ensouled Sword.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/148_Ensouled Sword.png"
 			}
 		},
 		{
@@ -946,9 +946,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "120",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/120_Twinsoul Chakrams.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/160_Twinsoul Chakrams.png"
 			}
 		},
 		{
@@ -956,9 +956,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "123",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/123_Crowded Market.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/164_Crowded Market.png"
 			}
 		},
 		{
@@ -966,9 +966,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "118",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/118_Smolderblade.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/158_Smolderblade.png"
 			}
 		},
 		{
@@ -976,9 +976,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains ",
-			"collector_number": "128",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/128_Plains.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/170_Plains.png"
 			}
 		},
 		{
@@ -996,9 +996,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit ",
-			"collector_number": "13",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/13_Spirit.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/16_Spirit.png"
 			}
 		},
 		{
@@ -1006,9 +1006,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem — Bahum ",
-			"collector_number": "21",
+			"collector_number": "26",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/21_Bahum, Merciful End.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/26_Bahum, Merciful End.png"
 			}
 		},
 		{
@@ -1036,9 +1036,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "",
-			"collector_number": "12",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/12_Veronia.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/14_Veronia.png"
 			}
 		},
 		{
@@ -1216,9 +1216,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "52",
+			"collector_number": "69",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/52_Ascender's Determination.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/69_Ascender's Determination.png"
 			}
 		},
 		{
@@ -1226,9 +1226,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Devil Warrior ",
-			"collector_number": "53",
+			"collector_number": "70",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/53_As'hin's Harrier.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/70_As'hin's Harrier.png"
 			}
 		},
 		{
@@ -1236,9 +1236,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental Warrior ",
-			"collector_number": "62",
+			"collector_number": "87",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/62_Patron of the Worthy.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/87_Patron of the Worthy.png"
 			}
 		},
 		{
@@ -1246,9 +1246,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Enchantment — Aura ",
-			"collector_number": "54",
+			"collector_number": "71",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/54_Aspiration.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/71_Aspiration.png"
 			}
 		},
 		{
@@ -1256,9 +1256,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Giant Warrior ",
-			"collector_number": "55",
+			"collector_number": "72",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/55_Bungisngis Hunter.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/72_Bungisngis Hunter.png"
 			}
 		},
 		{
@@ -1266,9 +1266,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "60",
+			"collector_number": "82",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/60_Inspire to Prevail.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/82_Inspire to Prevail.png"
 			}
 		},
 		{
@@ -1276,9 +1276,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Scout ",
-			"collector_number": "57",
+			"collector_number": "76",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/57_Field Harvester.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/76_Field Harvester.png"
 			}
 		},
 		{
@@ -1286,9 +1286,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Elemental Warrior ",
-			"collector_number": "58",
+			"collector_number": "80",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/58_Guardian of Suglit.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/80_Guardian of Suglit.png"
 			}
 		},
 		{
@@ -1296,9 +1296,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "59",
+			"collector_number": "81",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/59_Impetuous Advance.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/81_Impetuous Advance.png"
 			}
 		},
 		{
@@ -1306,9 +1306,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "61",
+			"collector_number": "83",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/61_Intrigue of Fervor.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/83_Intrigue of Fervor.png"
 			}
 		},
 		{
@@ -1316,16 +1316,16 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "56",
+			"collector_number": "73",
 			"back": {
 				"name": "",
 				"type": "",
 				"image_uris": {
-					"en": "https://A1301793.github.io/sets/KLC2-files/img/56_A Decisive Revenge_back.png"
+					"en": "https://A1301793.github.io/sets/KLC2-files/img/73_A Decisive Revenge_back.png"
 				}
 			},
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/56_A Decisive Revenge_front.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/73_A Decisive Revenge_front.png"
 			}
 		},
 		{
@@ -1333,9 +1333,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Vampire Horror ",
-			"collector_number": "63",
+			"collector_number": "90",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/63_Relentless Manananggal.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/90_Relentless Manananggal.png"
 			}
 		},
 		{
@@ -1343,9 +1343,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "64",
+			"collector_number": "91",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/64_Renegade Ascender.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/91_Renegade Ascender.png"
 			}
 		},
 		{
@@ -1353,9 +1353,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "65",
+			"collector_number": "92",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/65_Rise Together.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/92_Rise Together.png"
 			}
 		},
 		{
@@ -1363,9 +1363,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "66",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/66_Simua Recruiter.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/94_Simua Recruiter.png"
 			}
 		},
 		{
@@ -1373,9 +1373,9 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Warrior ",
-			"collector_number": "67",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/67_Spear Dancer.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/96_Spear Dancer.png"
 			}
 		},
 		{
@@ -1383,9 +1383,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "68",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/68_Sudden Rockslide.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/99_Sudden Rockslide.png"
 			}
 		},
 		{
@@ -1393,9 +1393,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment",
-			"collector_number": "105",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/105_Eternal Journey.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/139_Eternal Journey.png"
 			}
 		},
 		{
@@ -1403,9 +1403,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Human Wizard ",
-			"collector_number": "109",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/109_Star Wielder.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/143_Star Wielder.png"
 			}
 		},
 		{
@@ -1413,9 +1413,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "114",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/114_Gloryblaze Armaments.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/151_Gloryblaze Armaments.png"
 			}
 		},
 		{
@@ -1423,9 +1423,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment ",
-			"collector_number": "110",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/110_Deadly Duo.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/147_Deadly Duo.png"
 			}
 		},
 		{
@@ -1433,9 +1433,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "112",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/112_Fragment of Heaven.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/149_Fragment of Heaven.png"
 			}
 		},
 		{
@@ -1443,9 +1443,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle ",
-			"collector_number": "121",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/121_Zephyr Rider.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/161_Zephyr Rider.png"
 			}
 		},
 		{
@@ -1453,9 +1453,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "125",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/125_Mirage Glade.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/166_Mirage Glade.png"
 			}
 		},
 		{
@@ -1463,9 +1463,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "126",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/126_Terramorphic Expanse.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/168_Terramorphic Expanse.png"
 			}
 		},
 		{
@@ -1473,9 +1473,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain ",
-			"collector_number": "129",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/129_Mountain.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/172_Mountain.png"
 			}
 		},
 		{
@@ -1483,9 +1483,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Bird ",
-			"collector_number": "14",
+			"collector_number": "17",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/14_Bird.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/17_Bird.png"
 			}
 		},
 		{
@@ -1493,9 +1493,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Warrior ",
-			"collector_number": "17",
+			"collector_number": "22",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/17_Warrior.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/22_Warrior.png"
 			}
 		},
 		{
@@ -1533,9 +1533,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "73",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/73_Cruel and Unusual.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/107_Cruel and Unusual.png"
 			}
 		},
 		{
@@ -1543,9 +1543,496 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{W}{U}{B}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://A1301793.github.io/sets/KLC2-files/img/108_Remake Realities.png"
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/142_Remake Realities.png"
+			}
+		},
+		{
+			"name": "Consigned to Anguish",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Sorcery",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/38_Consigned to Anguish.png"
+			}
+		},
+		{
+			"name": "Crawling Chaos",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Creature — Nightmare Insect  ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/39_Crawling Chaos.png"
+			}
+		},
+		{
+			"name": "A Crushing Conclusion",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "40",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://A1301793.github.io/sets/KLC2-files/img/40_A Crushing Conclusion_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/40_A Crushing Conclusion_front.png"
+			}
+		},
+		{
+			"name": "End Nightmares",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/43_End Nightmares.png"
+			}
+		},
+		{
+			"name": "Grave Vigil",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/46_Grave Vigil.png"
+			}
+		},
+		{
+			"name": "Horrific Wurm",
+			"rarity": "common",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Nightmare Wurm ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/48_Horrific Wurm.png"
+			}
+		},
+		{
+			"name": "Hunt in the Streets",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/49_Hunt in the Streets.png"
+			}
+		},
+		{
+			"name": "Infested with Fear",
+			"rarity": "common",
+			"mana_cost": "{B}",
+			"type": "Enchantment — Aura ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/50_Infested with Fear.png"
+			}
+		},
+		{
+			"name": "Insight from Instinct",
+			"rarity": "common",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Sorcery",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/51_Insight from Instinct.png"
+			}
+		},
+		{
+			"name": "Masked Assailant",
+			"rarity": "common",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/54_Masked Assailant.png"
+			}
+		},
+		{
+			"name": "Old Night Falling",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Legendary Enchantment",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/58_Old Night Falling.png"
+			}
+		},
+		{
+			"name": "Paranoid Pickpocket",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/59_Paranoid Pickpocket.png"
+			}
+		},
+		{
+			"name": "Ravenous Predator",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Bird ",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/61_Ravenous Predator.png"
+			}
+		},
+		{
+			"name": "Servant of the Unknown",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/63_Servant of the Unknown.png"
+			}
+		},
+		{
+			"name": "Student of Carnage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Assassin ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/65_Student of Carnage.png"
+			}
+		},
+		{
+			"name": "Suvic's Figment",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Illusion ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/66_Suvic's Figment.png"
+			}
+		},
+		{
+			"name": "Vampiric Succor",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Enchantment",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/68_Vampiric Succor.png"
+			}
+		},
+		{
+			"name": "Desperate Hoarder",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Rogue ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/74_Desperate Hoarder.png"
+			}
+		},
+		{
+			"name": "Fear Itself",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/75_Fear Itself.png"
+			}
+		},
+		{
+			"name": "Fist of the Law",
+			"rarity": "common",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Soldier ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/77_Fist of the Law.png"
+			}
+		},
+		{
+			"name": "Frantic Censure",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Instant",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/78_Frantic Censure.png"
+			}
+		},
+		{
+			"name": "Gibbering Insight",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Enchantment",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/79_Gibbering Insight.png"
+			}
+		},
+		{
+			"name": "Maw of Progress",
+			"rarity": "common",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/84_Maw of Progress.png"
+			}
+		},
+		{
+			"name": "Mother of Monsters",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/85_Mother of Monsters.png"
+			}
+		},
+		{
+			"name": "Pain's Embrace",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/86_Pain's Embrace.png"
+			}
+		},
+		{
+			"name": "Pre-Emptive Strike",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/88_Pre-Emptive Strike.png"
+			}
+		},
+		{
+			"name": "Reckless Machinist",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Artificer ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/89_Reckless Machinist.png"
+			}
+		},
+		{
+			"name": "Seelenite Refinery",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/93_Seelenite Refinery.png"
+			}
+		},
+		{
+			"name": "Spark of Hope",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Enchantment",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/95_Spark of Hope.png"
+			}
+		},
+		{
+			"name": "Stalker in the Night",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Creature — Nightmare ",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/97_Stalker in the Night.png"
+			}
+		},
+		{
+			"name": "Street Screecher",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human  ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/98_Street Screecher.png"
+			}
+		},
+		{
+			"name": "Symbol of the End",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Creature — Nightmare Phoenix ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/100_Symbol of the End.png"
+			}
+		},
+		{
+			"name": "Victim of the Old Night",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Citizen ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/101_Victim of the Old Night.png"
+			}
+		},
+		{
+			"name": "Voice of the Godseekers",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Cleric ",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/102_Voice of the Godseekers.png"
+			}
+		},
+		{
+			"name": "Thomar, Hand of the Old Night",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}",
+			"type": "Legendary Creature — Human Cleric ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/144_Thomar, Hand of the Old Night.png"
+			}
+		},
+		{
+			"name": "Werchrin Resistance",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Creature — Citizen ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/145_Werchrin Resistance.png"
+			}
+		},
+		{
+			"name": "Body of Work",
+			"rarity": "uncommon",
+			"mana_cost": "{8}",
+			"type": "Artifact Creature — Construct Horror ",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/146_Body of Work.png"
+			}
+		},
+		{
+			"name": "Nuclear Option",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/153_Nuclear Option.png"
+			}
+		},
+		{
+			"name": "Raw Seelenite",
+			"rarity": "common",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/154_Raw Seelenite.png"
+			}
+		},
+		{
+			"name": "Seelenite Servitor",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/157_Seelenite Servitor.png"
+			}
+		},
+		{
+			"name": "Blood-Red Streets",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/163_Blood-Red Streets.png"
+			}
+		},
+		{
+			"name": "Squalid Safehouse",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/167_Squalid Safehouse.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/171_Swamp.png"
+			}
+		},
+		{
+			"name": "Suvic's Story",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/12_Suvic's Story.png"
+			}
+		},
+		{
+			"name": "Suvic",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/11_Suvic.png"
+			}
+		},
+		{
+			"name": "Werchrin",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/15_Werchrin.png"
+			}
+		},
+		{
+			"name": "Nightmare",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Nightmare ",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/19_Nightmare.png"
+			}
+		},
+		{
+			"name": "Cleric",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cleric ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://A1301793.github.io/sets/KLC2-files/img/21_Cleric.png"
 			}
 		}
 	]
